@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OldCor, born in 1939 but still active and creative.
+- 👋 Hi, I’m @OldCor, born in 1939, living in the Netherlands, still active and creative.
 -     In the very past I functioned as a Electrical Engineer, 
 -     writing in machine language for 8080, Z80 and later 68000 processors.
 - 👀 I’m currently interested in ESP32 projects.
